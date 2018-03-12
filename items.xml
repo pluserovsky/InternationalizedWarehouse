@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<itemsList>
+    <item id="1" name="pen" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\pen.png" prize="3"/>
+    <item id="8" name="map" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\map.jpg" prize="10"/>
+    <item id="4" name="rubber" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\rubber.png" prize="1"/>
+    <item id="2" name="pencil" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\pencil.png" prize="2"/>
+    <item id="7" name="globe" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\globe.png" prize="46"/>
+    <item id="4" name="rubber" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\rubber.png" prize="1"/>
+    <item id="9" name="marker" picPath="G:\Lukasz\Desktop\PWR\semestr_6\java\netbans\lab2_InternationalizedWarehouse\marker.png" prize="6"/>
+</itemsList>
